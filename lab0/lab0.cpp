@@ -8,7 +8,7 @@ int main()
     cout << "Hello World!\n";
     int a;
     cin >> a;
-    return 1;
+    return 456;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
